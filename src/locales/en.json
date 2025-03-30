@@ -1,0 +1,53 @@
+{
+    "header": {
+      "nav": {
+        "home": "Home",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+      },
+      "toggleLanguage": "Switch Language"
+
+    },
+    "hero": {
+      "greeting": "Hello, I'm Sarah 👋",
+      "jobTitle": "Junior Full-Stack Developer",
+      "description": "Crafting pixel-perfect, engaging, and accessible digital experiences that captivate and inspire! From front-end to back-end, I handle it all with precision and creativity.",
+      "bookCall": "Book a Call",
+      "downloadCV": "Download CV"
+    },
+    "social": {
+      "youtube": "YouTube",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "behance": "Behance"
+    },
+    "services": {
+      "title": "Services",
+      "bgText": "SERVICES"
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "bgText": "PORTFOLIO",
+      "all": "All",
+      "viewProject": "View Project"
+    },
+    "contact": {
+      "title": "Contact",
+      "bgText": "CONTACT",
+      "successMessage": "Your message has been sent successfully!",
+      "errorMessage": "An error occurred. Please try again.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "subject": "Subject",
+        "phone": "Phone",
+        "message": "Message",
+        "submit": "Send"
+      }
+    },
+    "footer": {
+      "copyright": "© 2024 My Showcase Website. All rights reserved."
+    }
+  }
+  

@@ -1,0 +1,52 @@
+{
+    "header": {
+      "nav": {
+        "home": "Accueil",
+        "services": "Services",
+        "portfolio": "Portfolio",
+        "contact": "Contact"
+      },
+      "toggleLanguage": "Changer de Langue"
+    },
+    "hero": {
+      "greeting": "Bonjour, je suis Sarah 👋",
+      "jobTitle": "Développeuse Full-Stack Junior",
+      "description": "Créer des expériences numériques pixel-parfaites, engageantes et accessibles qui captivent et inspirent ! Du front-end au back-end, je gère tout avec précision et créativité.",
+      "bookCall": "Prendre un rendez-vous",
+      "downloadCV": "Télécharger le CV"
+    },
+    "social": {
+      "youtube": "YouTube",
+      "github": "GitHub",
+      "linkedin": "LinkedIn",
+      "behance": "Behance"
+    },
+    "services": {
+      "title": "Services",
+      "bgText": "SERVICES"
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "bgText": "PORTFOLIO",
+      "all": "Tous",
+      "viewProject": "Voir le projet"
+    },
+    "contact": {
+      "title": "Contact",
+      "bgText": "CONTACT",
+      "successMessage": "Votre message a été envoyé avec succès !",
+      "errorMessage": "Une erreur est survenue. Veuillez réessayer.",
+      "form": {
+        "name": "Nom",
+        "email": "Email",
+        "subject": "Sujet",
+        "phone": "Téléphone",
+        "message": "Message",
+        "submit": "Envoyer"
+      }
+    },
+    "footer": {
+      "copyright": "© 2024 Mon Site Vitrine. Tous droits réservés."
+    }
+  }
+  
